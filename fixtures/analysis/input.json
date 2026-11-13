@@ -1,0 +1,5423 @@
+{
+  "seed": 17,
+  "training_cutoff": "2026-06-30",
+  "previous_release": null,
+  "observations": [
+    {
+      "merchant_id": "m000",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 869.49,
+      "repeat_rate": 0.128,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m000",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1028.27,
+      "repeat_rate": 0.164,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m000",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1080.63,
+      "repeat_rate": 0.156,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m000",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1095.68,
+      "repeat_rate": 0.162,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m000",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1112.02,
+      "repeat_rate": 0.158,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m000",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 930.44,
+      "repeat_rate": 0.152,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m001",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2021.13,
+      "repeat_rate": 0.329,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m001",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1973.14,
+      "repeat_rate": 0.36,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m001",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2010.67,
+      "repeat_rate": 0.379,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m001",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2034.67,
+      "repeat_rate": 0.332,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m001",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2036.02,
+      "repeat_rate": 0.338,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m001",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1942.44,
+      "repeat_rate": 0.365,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m002",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2975.21,
+      "repeat_rate": 0.545,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m002",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2997.38,
+      "repeat_rate": 0.542,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m002",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 3031.16,
+      "repeat_rate": 0.527,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m002",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3141.27,
+      "repeat_rate": 0.579,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m002",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3047.43,
+      "repeat_rate": 0.562,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m002",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2957.7,
+      "repeat_rate": 0.557,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m003",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 933.49,
+      "repeat_rate": 0.154,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m003",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 954.23,
+      "repeat_rate": 0.153,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m003",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 989.24,
+      "repeat_rate": 0.169,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m003",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 958.14,
+      "repeat_rate": 0.168,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m003",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 920.17,
+      "repeat_rate": 0.179,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m003",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1002.9,
+      "repeat_rate": 0.149,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m004",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2000.09,
+      "repeat_rate": 0.359,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m004",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1885.33,
+      "repeat_rate": 0.379,
+      "digital_share": 0.35,
+      "open_days": 0
+    },
+    {
+      "merchant_id": "m004",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2049.86,
+      "repeat_rate": 0.339,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m004",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1881.0,
+      "repeat_rate": 0.364,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m004",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1898.1,
+      "repeat_rate": 0.368,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m004",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2027.3,
+      "repeat_rate": 0.378,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m005",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2909.83,
+      "repeat_rate": 0.542,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m005",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 3049.48,
+      "repeat_rate": 0.534,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m005",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2981.87,
+      "repeat_rate": 0.572,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m005",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3040.66,
+      "repeat_rate": 0.544,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m005",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2952.09,
+      "repeat_rate": 0.538,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m005",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2874.86,
+      "repeat_rate": 0.542,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m006",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 988.99,
+      "repeat_rate": 0.156,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m006",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1017.38,
+      "repeat_rate": 0.167,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m006",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1009.62,
+      "repeat_rate": 0.151,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m006",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1081.78,
+      "repeat_rate": 0.133,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m006",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 892.12,
+      "repeat_rate": 0.122,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m006",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1011.66,
+      "repeat_rate": 0.149,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m007",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2045.81,
+      "repeat_rate": 0.344,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m007",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2093.91,
+      "repeat_rate": 0.325,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m007",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1849.71,
+      "repeat_rate": 0.374,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m007",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1932.47,
+      "repeat_rate": 0.351,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m007",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2080.78,
+      "repeat_rate": 0.337,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m007",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1874.86,
+      "repeat_rate": 0.362,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m008",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 3044.57,
+      "repeat_rate": 0.521,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m008",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2947.02,
+      "repeat_rate": 0.529,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m008",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2967.03,
+      "repeat_rate": 0.574,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m008",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2897.85,
+      "repeat_rate": 0.549,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m008",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3016.21,
+      "repeat_rate": 0.555,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m008",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 3056.8,
+      "repeat_rate": 0.539,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m009",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 974.23,
+      "repeat_rate": 0.142,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m009",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1032.12,
+      "repeat_rate": 0.12,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m009",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1032.17,
+      "repeat_rate": 0.168,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m009",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 991.62,
+      "repeat_rate": 0.156,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m009",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1142.77,
+      "repeat_rate": 0.129,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m009",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1127.23,
+      "repeat_rate": 0.172,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m010",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1824.09,
+      "repeat_rate": 0.366,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m010",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2065.09,
+      "repeat_rate": 0.339,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m010",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2055.32,
+      "repeat_rate": 0.341,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m010",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1986.73,
+      "repeat_rate": 0.36,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m010",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1919.19,
+      "repeat_rate": 0.341,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m010",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2067.04,
+      "repeat_rate": 0.327,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m011",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 3107.69,
+      "repeat_rate": 0.531,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m011",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2996.07,
+      "repeat_rate": 0.572,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m011",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2866.32,
+      "repeat_rate": 0.526,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m011",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2979.93,
+      "repeat_rate": 0.578,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m011",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3065.16,
+      "repeat_rate": 0.572,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m011",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2939.23,
+      "repeat_rate": 0.526,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m012",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 920.99,
+      "repeat_rate": 0.153,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m012",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 924.68,
+      "repeat_rate": 0.168,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m012",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 862.24,
+      "repeat_rate": 0.165,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m012",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 973.91,
+      "repeat_rate": 0.147,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m012",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1042.9,
+      "repeat_rate": 0.143,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m012",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 985.8,
+      "repeat_rate": 0.158,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m013",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2020.99,
+      "repeat_rate": 0.329,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m013",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2066.84,
+      "repeat_rate": 0.352,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m013",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1935.49,
+      "repeat_rate": 0.364,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m013",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1883.93,
+      "repeat_rate": 0.347,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m013",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1994.07,
+      "repeat_rate": 0.327,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m013",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2003.33,
+      "repeat_rate": 0.339,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m014",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2976.93,
+      "repeat_rate": 0.553,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m014",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 3015.1,
+      "repeat_rate": 0.571,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m014",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2945.74,
+      "repeat_rate": 0.557,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m014",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2806.26,
+      "repeat_rate": 0.546,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m014",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2984.57,
+      "repeat_rate": 0.549,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m014",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 3049.99,
+      "repeat_rate": 0.539,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m015",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 908.96,
+      "repeat_rate": 0.159,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m015",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1068.26,
+      "repeat_rate": 0.139,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m015",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 897.96,
+      "repeat_rate": 0.155,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m015",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 912.51,
+      "repeat_rate": 0.133,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m015",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1134.26,
+      "repeat_rate": 0.16,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m015",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1143.6,
+      "repeat_rate": 0.142,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m016",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2029.48,
+      "repeat_rate": 0.37,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m016",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2024.72,
+      "repeat_rate": 0.348,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m016",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2075.74,
+      "repeat_rate": 0.328,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m016",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2138.41,
+      "repeat_rate": 0.377,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m016",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2006.27,
+      "repeat_rate": 0.332,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m016",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1983.83,
+      "repeat_rate": 0.345,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m017",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 3100.43,
+      "repeat_rate": 0.538,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m017",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2959.31,
+      "repeat_rate": 0.568,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m017",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2960.96,
+      "repeat_rate": 0.557,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m017",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2966.92,
+      "repeat_rate": 0.579,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m017",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2976.53,
+      "repeat_rate": 0.553,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m017",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2963.28,
+      "repeat_rate": 0.526,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m018",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 983.61,
+      "repeat_rate": 0.13,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m018",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 988.49,
+      "repeat_rate": 0.163,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m018",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1076.59,
+      "repeat_rate": 0.177,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m018",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 783.32,
+      "repeat_rate": 0.142,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m018",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 880.75,
+      "repeat_rate": 0.174,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m018",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 964.73,
+      "repeat_rate": 0.161,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m019",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2021.41,
+      "repeat_rate": 0.379,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m019",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1981.98,
+      "repeat_rate": 0.37,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m019",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1886.73,
+      "repeat_rate": 0.354,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m019",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1930.85,
+      "repeat_rate": 0.375,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m019",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1889.28,
+      "repeat_rate": 0.326,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m019",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2114.73,
+      "repeat_rate": 0.346,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m020",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2889.35,
+      "repeat_rate": 0.57,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m020",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2987.47,
+      "repeat_rate": 0.578,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m020",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 3080.37,
+      "repeat_rate": 0.539,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m020",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3056.64,
+      "repeat_rate": 0.566,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m020",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2869.97,
+      "repeat_rate": 0.538,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m020",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2955.36,
+      "repeat_rate": 0.573,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m021",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1048.15,
+      "repeat_rate": 0.166,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m021",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1037.03,
+      "repeat_rate": 0.134,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m021",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1010.67,
+      "repeat_rate": 0.12,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m021",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1051.19,
+      "repeat_rate": 0.15,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m021",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1041.13,
+      "repeat_rate": 0.154,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m021",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1019.21,
+      "repeat_rate": 0.175,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m022",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1976.89,
+      "repeat_rate": 0.329,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m022",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1960.95,
+      "repeat_rate": 0.343,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m022",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1946.24,
+      "repeat_rate": 0.334,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m022",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1929.75,
+      "repeat_rate": 0.348,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m022",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1974.39,
+      "repeat_rate": 0.357,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m022",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2016.13,
+      "repeat_rate": 0.335,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m023",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 3061.11,
+      "repeat_rate": 0.526,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m023",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 3000.18,
+      "repeat_rate": 0.576,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m023",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 3040.71,
+      "repeat_rate": 0.529,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m023",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3168.27,
+      "repeat_rate": 0.551,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m023",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3017.69,
+      "repeat_rate": 0.558,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m023",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 3073.74,
+      "repeat_rate": 0.567,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m024",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 981.52,
+      "repeat_rate": 0.168,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m024",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1041.96,
+      "repeat_rate": 0.137,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m024",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1077.22,
+      "repeat_rate": 0.141,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m024",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1092.85,
+      "repeat_rate": 0.126,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m024",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 879.75,
+      "repeat_rate": 0.159,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m024",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1030.82,
+      "repeat_rate": 0.179,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m025",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1966.83,
+      "repeat_rate": 0.377,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m025",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1981.72,
+      "repeat_rate": 0.338,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m025",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1909.36,
+      "repeat_rate": 0.343,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m025",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2146.45,
+      "repeat_rate": 0.377,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m025",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1959.77,
+      "repeat_rate": 0.344,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m025",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2101.9,
+      "repeat_rate": 0.359,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m026",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2938.65,
+      "repeat_rate": 0.541,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m026",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 3008.21,
+      "repeat_rate": 0.525,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m026",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2984.48,
+      "repeat_rate": 0.546,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m026",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2894.7,
+      "repeat_rate": 0.579,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m026",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3061.24,
+      "repeat_rate": 0.555,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m026",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 3060.04,
+      "repeat_rate": 0.521,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m027",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 999.24,
+      "repeat_rate": 0.139,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m027",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 879.92,
+      "repeat_rate": 0.126,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m027",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 972.7,
+      "repeat_rate": 0.174,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m027",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1155.98,
+      "repeat_rate": 0.145,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m027",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1026.38,
+      "repeat_rate": 0.129,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m027",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1086.56,
+      "repeat_rate": 0.121,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m028",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1893.41,
+      "repeat_rate": 0.329,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m028",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2077.7,
+      "repeat_rate": 0.372,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m028",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1873.39,
+      "repeat_rate": 0.339,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m028",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2002.79,
+      "repeat_rate": 0.374,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m028",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2130.26,
+      "repeat_rate": 0.377,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m028",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1970.64,
+      "repeat_rate": 0.365,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m029",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 3034.39,
+      "repeat_rate": 0.538,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m029",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2992.35,
+      "repeat_rate": 0.56,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m029",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 3063.46,
+      "repeat_rate": 0.549,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m029",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2986.34,
+      "repeat_rate": 0.557,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m029",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3071.37,
+      "repeat_rate": 0.533,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m029",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2950.04,
+      "repeat_rate": 0.544,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m030",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1106.14,
+      "repeat_rate": 0.136,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m030",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 924.32,
+      "repeat_rate": 0.126,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m030",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 861.6,
+      "repeat_rate": 0.137,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m030",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1162.25,
+      "repeat_rate": 0.135,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m030",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1021.64,
+      "repeat_rate": 0.166,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m030",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1016.18,
+      "repeat_rate": 0.164,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m031",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2151.43,
+      "repeat_rate": 0.353,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m031",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1904.55,
+      "repeat_rate": 0.328,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m031",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2014.33,
+      "repeat_rate": 0.326,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m031",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2030.88,
+      "repeat_rate": 0.325,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m031",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1852.87,
+      "repeat_rate": 0.357,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m031",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2071.36,
+      "repeat_rate": 0.338,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m032",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2847.1,
+      "repeat_rate": 0.53,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m032",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2980.55,
+      "repeat_rate": 0.571,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m032",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 3034.87,
+      "repeat_rate": 0.528,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m032",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2906.27,
+      "repeat_rate": 0.525,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m032",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3006.34,
+      "repeat_rate": 0.566,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m032",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2969.24,
+      "repeat_rate": 0.542,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m033",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 988.89,
+      "repeat_rate": 0.168,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m033",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1058.54,
+      "repeat_rate": 0.172,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m033",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1088.74,
+      "repeat_rate": 0.168,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m033",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 886.21,
+      "repeat_rate": 0.168,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m033",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 912.35,
+      "repeat_rate": 0.128,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m033",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 963.4,
+      "repeat_rate": 0.13,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m034",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2110.83,
+      "repeat_rate": 0.357,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m034",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1946.38,
+      "repeat_rate": 0.325,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m034",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2084.37,
+      "repeat_rate": 0.377,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m034",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1888.13,
+      "repeat_rate": 0.34,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m034",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2042.57,
+      "repeat_rate": 0.377,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m034",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1879.71,
+      "repeat_rate": 0.37,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m035",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 3036.72,
+      "repeat_rate": 0.533,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m035",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2958.67,
+      "repeat_rate": 0.576,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m035",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2888.7,
+      "repeat_rate": 0.559,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m035",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3002.77,
+      "repeat_rate": 0.547,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m035",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3030.93,
+      "repeat_rate": 0.533,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m035",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 3072.38,
+      "repeat_rate": 0.56,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m036",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 881.55,
+      "repeat_rate": 0.141,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m036",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1105.97,
+      "repeat_rate": 0.156,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m036",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1111.44,
+      "repeat_rate": 0.136,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m036",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 948.51,
+      "repeat_rate": 0.153,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m036",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1036.21,
+      "repeat_rate": 0.144,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m036",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 971.52,
+      "repeat_rate": 0.167,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m037",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1922.09,
+      "repeat_rate": 0.363,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m037",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1859.59,
+      "repeat_rate": 0.372,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m037",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1996.94,
+      "repeat_rate": 0.378,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m037",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1847.64,
+      "repeat_rate": 0.32,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m037",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2010.44,
+      "repeat_rate": 0.372,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m037",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2158.17,
+      "repeat_rate": 0.379,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m038",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2991.54,
+      "repeat_rate": 0.564,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m038",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 3020.87,
+      "repeat_rate": 0.565,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m038",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 3031.89,
+      "repeat_rate": 0.538,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m038",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2957.02,
+      "repeat_rate": 0.56,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m038",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2954.3,
+      "repeat_rate": 0.529,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m038",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2942.18,
+      "repeat_rate": 0.527,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m039",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1041.24,
+      "repeat_rate": 0.131,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m039",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 888.15,
+      "repeat_rate": 0.133,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m039",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1049.28,
+      "repeat_rate": 0.145,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m039",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 991.02,
+      "repeat_rate": 0.157,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m039",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 911.91,
+      "repeat_rate": 0.134,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m039",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 903.56,
+      "repeat_rate": 0.12,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m040",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1942.92,
+      "repeat_rate": 0.374,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m040",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2034.35,
+      "repeat_rate": 0.333,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m040",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1900.62,
+      "repeat_rate": 0.342,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m040",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1983.24,
+      "repeat_rate": 0.359,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m040",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2097.07,
+      "repeat_rate": 0.352,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m040",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2086.04,
+      "repeat_rate": 0.325,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m041",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 3023.96,
+      "repeat_rate": 0.541,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m041",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2978.62,
+      "repeat_rate": 0.554,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m041",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2903.71,
+      "repeat_rate": 0.53,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m041",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3031.51,
+      "repeat_rate": 0.531,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m041",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3149.78,
+      "repeat_rate": 0.57,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m041",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 3023.13,
+      "repeat_rate": 0.527,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m042",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1048.53,
+      "repeat_rate": 0.125,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m042",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1002.26,
+      "repeat_rate": 0.122,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m042",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 829.69,
+      "repeat_rate": 0.147,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m042",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 989.98,
+      "repeat_rate": 0.16,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m042",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1028.9,
+      "repeat_rate": 0.173,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m042",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 960.0,
+      "repeat_rate": 0.121,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m043",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2020.84,
+      "repeat_rate": 0.368,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m043",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1957.82,
+      "repeat_rate": 0.368,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m043",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1995.48,
+      "repeat_rate": 0.331,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m043",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2014.35,
+      "repeat_rate": 0.33,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m043",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1903.4,
+      "repeat_rate": 0.327,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m043",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1946.32,
+      "repeat_rate": 0.361,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m044",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2895.75,
+      "repeat_rate": 0.565,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m044",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2912.21,
+      "repeat_rate": 0.542,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m044",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 3049.18,
+      "repeat_rate": 0.572,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m044",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2891.43,
+      "repeat_rate": 0.52,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m044",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3009.36,
+      "repeat_rate": 0.558,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m044",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 3009.77,
+      "repeat_rate": 0.565,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m045",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1049.62,
+      "repeat_rate": 0.162,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m045",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1083.34,
+      "repeat_rate": 0.148,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m045",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 947.35,
+      "repeat_rate": 0.148,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m045",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1105.28,
+      "repeat_rate": 0.154,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m045",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 957.57,
+      "repeat_rate": 0.136,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m045",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 941.63,
+      "repeat_rate": 0.136,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m046",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1947.55,
+      "repeat_rate": 0.335,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m046",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2089.63,
+      "repeat_rate": 0.371,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m046",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2050.78,
+      "repeat_rate": 0.349,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m046",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1910.07,
+      "repeat_rate": 0.369,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m046",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1968.17,
+      "repeat_rate": 0.32,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m046",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2086.99,
+      "repeat_rate": 0.379,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m047",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 3103.27,
+      "repeat_rate": 0.58,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m047",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 3105.37,
+      "repeat_rate": 0.552,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m047",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2851.48,
+      "repeat_rate": 0.557,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m047",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3015.05,
+      "repeat_rate": 0.539,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m047",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2947.11,
+      "repeat_rate": 0.565,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m047",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 3035.53,
+      "repeat_rate": 0.534,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m048",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 942.16,
+      "repeat_rate": 0.13,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m048",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1100.45,
+      "repeat_rate": 0.127,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m048",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 962.49,
+      "repeat_rate": 0.161,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m048",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1004.6,
+      "repeat_rate": 0.138,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m048",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1047.53,
+      "repeat_rate": 0.132,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m048",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1073.32,
+      "repeat_rate": 0.132,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m049",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1952.25,
+      "repeat_rate": 0.327,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m049",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2048.87,
+      "repeat_rate": 0.326,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m049",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1984.51,
+      "repeat_rate": 0.345,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m049",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2100.81,
+      "repeat_rate": 0.352,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m049",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1972.23,
+      "repeat_rate": 0.374,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m049",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1963.99,
+      "repeat_rate": 0.336,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m050",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 3066.45,
+      "repeat_rate": 0.526,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m050",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2809.95,
+      "repeat_rate": 0.557,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m050",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2975.74,
+      "repeat_rate": 0.566,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m050",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3012.62,
+      "repeat_rate": 0.544,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m050",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3137.22,
+      "repeat_rate": 0.557,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m050",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2961.4,
+      "repeat_rate": 0.578,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m051",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 873.92,
+      "repeat_rate": 0.152,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m051",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 933.66,
+      "repeat_rate": 0.153,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m051",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1070.5,
+      "repeat_rate": 0.177,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m051",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1008.86,
+      "repeat_rate": 0.15,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m051",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 999.02,
+      "repeat_rate": 0.157,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m051",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 959.02,
+      "repeat_rate": 0.173,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m052",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2008.55,
+      "repeat_rate": 0.357,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m052",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2021.49,
+      "repeat_rate": 0.37,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m052",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2113.3,
+      "repeat_rate": 0.355,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m052",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2064.85,
+      "repeat_rate": 0.356,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m052",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2010.58,
+      "repeat_rate": 0.338,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m052",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1912.9,
+      "repeat_rate": 0.343,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m053",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2914.7,
+      "repeat_rate": 0.575,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m053",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2796.66,
+      "repeat_rate": 0.556,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m053",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 3050.26,
+      "repeat_rate": 0.547,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m053",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3069.41,
+      "repeat_rate": 0.575,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m053",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2931.81,
+      "repeat_rate": 0.569,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m053",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2981.06,
+      "repeat_rate": 0.574,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m054",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1014.02,
+      "repeat_rate": 0.137,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m054",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1065.23,
+      "repeat_rate": 0.177,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m054",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 937.71,
+      "repeat_rate": 0.161,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m054",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 951.0,
+      "repeat_rate": 0.168,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m054",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 885.93,
+      "repeat_rate": 0.166,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m054",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 820.73,
+      "repeat_rate": 0.129,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m055",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1896.24,
+      "repeat_rate": 0.369,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m055",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1931.08,
+      "repeat_rate": 0.354,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m055",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2030.64,
+      "repeat_rate": 0.343,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m055",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1989.76,
+      "repeat_rate": 0.376,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m055",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1952.99,
+      "repeat_rate": 0.325,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m055",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2142.94,
+      "repeat_rate": 0.348,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m056",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2936.46,
+      "repeat_rate": 0.57,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m056",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 3040.95,
+      "repeat_rate": 0.556,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m056",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2945.71,
+      "repeat_rate": 0.559,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m056",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2980.68,
+      "repeat_rate": 0.566,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m056",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3261.61,
+      "repeat_rate": 0.575,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m056",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2952.45,
+      "repeat_rate": 0.55,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m057",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1020.07,
+      "repeat_rate": 0.172,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m057",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 856.11,
+      "repeat_rate": 0.173,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m057",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1024.08,
+      "repeat_rate": 0.134,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m057",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1095.22,
+      "repeat_rate": 0.136,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m057",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 961.5,
+      "repeat_rate": 0.156,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m057",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 952.2,
+      "repeat_rate": 0.14,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m058",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2010.79,
+      "repeat_rate": 0.32,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m058",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2069.95,
+      "repeat_rate": 0.356,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m058",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1874.97,
+      "repeat_rate": 0.347,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m058",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2016.89,
+      "repeat_rate": 0.356,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m058",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2074.39,
+      "repeat_rate": 0.356,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m058",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2039.03,
+      "repeat_rate": 0.379,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m059",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 3002.79,
+      "repeat_rate": 0.559,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m059",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 3159.15,
+      "repeat_rate": 0.566,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m059",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2955.96,
+      "repeat_rate": 0.537,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m059",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3007.02,
+      "repeat_rate": 0.556,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m059",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2902.07,
+      "repeat_rate": 0.558,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m059",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 3188.61,
+      "repeat_rate": 0.564,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m060",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 966.86,
+      "repeat_rate": 0.124,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m060",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 921.78,
+      "repeat_rate": 0.13,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m060",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1067.59,
+      "repeat_rate": 0.129,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m060",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1063.1,
+      "repeat_rate": 0.161,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m060",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 890.85,
+      "repeat_rate": 0.137,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m060",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 980.66,
+      "repeat_rate": 0.159,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m061",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2063.18,
+      "repeat_rate": 0.359,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m061",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2044.71,
+      "repeat_rate": 0.341,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m061",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2008.22,
+      "repeat_rate": 0.358,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m061",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2039.63,
+      "repeat_rate": 0.338,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m061",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1905.22,
+      "repeat_rate": 0.364,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m061",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1981.17,
+      "repeat_rate": 0.359,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m062",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2993.32,
+      "repeat_rate": 0.526,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m062",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 3106.7,
+      "repeat_rate": 0.52,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m062",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2961.26,
+      "repeat_rate": 0.576,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m062",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2939.39,
+      "repeat_rate": 0.558,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m062",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3024.71,
+      "repeat_rate": 0.527,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m062",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 3051.62,
+      "repeat_rate": 0.535,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m063",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1008.7,
+      "repeat_rate": 0.172,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m063",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 961.66,
+      "repeat_rate": 0.154,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m063",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1025.38,
+      "repeat_rate": 0.123,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m063",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1034.18,
+      "repeat_rate": 0.146,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m063",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 997.1,
+      "repeat_rate": 0.159,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m063",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1036.82,
+      "repeat_rate": 0.153,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m064",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1906.91,
+      "repeat_rate": 0.377,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m064",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1900.78,
+      "repeat_rate": 0.366,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m064",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1940.79,
+      "repeat_rate": 0.345,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m064",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2038.2,
+      "repeat_rate": 0.361,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m064",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1934.55,
+      "repeat_rate": 0.343,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m064",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1861.36,
+      "repeat_rate": 0.378,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m065",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2957.91,
+      "repeat_rate": 0.526,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m065",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 3011.23,
+      "repeat_rate": 0.58,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m065",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 3142.31,
+      "repeat_rate": 0.552,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m065",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2984.02,
+      "repeat_rate": 0.567,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m065",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3029.86,
+      "repeat_rate": 0.574,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m065",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 3085.87,
+      "repeat_rate": 0.536,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m066",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 911.05,
+      "repeat_rate": 0.137,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m066",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1092.34,
+      "repeat_rate": 0.158,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m066",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 969.28,
+      "repeat_rate": 0.129,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m066",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 972.21,
+      "repeat_rate": 0.176,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m066",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 942.79,
+      "repeat_rate": 0.173,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m066",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 968.28,
+      "repeat_rate": 0.129,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m067",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2150.6,
+      "repeat_rate": 0.361,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m067",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2102.67,
+      "repeat_rate": 0.325,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m067",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2043.8,
+      "repeat_rate": 0.324,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m067",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2074.86,
+      "repeat_rate": 0.321,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m067",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2122.79,
+      "repeat_rate": 0.349,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m067",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1988.82,
+      "repeat_rate": 0.353,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m068",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2982.5,
+      "repeat_rate": 0.561,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m068",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 3153.42,
+      "repeat_rate": 0.537,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m068",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2894.49,
+      "repeat_rate": 0.552,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m068",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3087.22,
+      "repeat_rate": 0.55,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m068",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3034.59,
+      "repeat_rate": 0.57,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m068",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 3021.06,
+      "repeat_rate": 0.529,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m069",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1041.04,
+      "repeat_rate": 0.139,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m069",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1174.46,
+      "repeat_rate": 0.136,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m069",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 986.34,
+      "repeat_rate": 0.159,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m069",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1102.05,
+      "repeat_rate": 0.163,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m069",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1026.76,
+      "repeat_rate": 0.15,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m069",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1012.79,
+      "repeat_rate": 0.134,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m070",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2007.14,
+      "repeat_rate": 0.349,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m070",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2050.16,
+      "repeat_rate": 0.365,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m070",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2126.0,
+      "repeat_rate": 0.37,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m070",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2109.65,
+      "repeat_rate": 0.35,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m070",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1931.69,
+      "repeat_rate": 0.333,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m070",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2036.12,
+      "repeat_rate": 0.355,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m071",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 3094.89,
+      "repeat_rate": 0.576,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m071",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2991.77,
+      "repeat_rate": 0.54,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m071",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 3023.65,
+      "repeat_rate": 0.535,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m071",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3092.45,
+      "repeat_rate": 0.548,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m071",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3038.69,
+      "repeat_rate": 0.543,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m071",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2972.01,
+      "repeat_rate": 0.549,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m072",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1134.26,
+      "repeat_rate": 0.129,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m072",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1001.04,
+      "repeat_rate": 0.171,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m072",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 993.87,
+      "repeat_rate": 0.132,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m072",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 912.45,
+      "repeat_rate": 0.17,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m072",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 931.61,
+      "repeat_rate": 0.175,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m072",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 949.31,
+      "repeat_rate": 0.128,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m073",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2002.49,
+      "repeat_rate": 0.356,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m073",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2029.75,
+      "repeat_rate": 0.347,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m073",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2028.82,
+      "repeat_rate": 0.327,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m073",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1917.3,
+      "repeat_rate": 0.357,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m073",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1938.93,
+      "repeat_rate": 0.362,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m073",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2075.14,
+      "repeat_rate": 0.359,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m074",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2994.74,
+      "repeat_rate": 0.527,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m074",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 3045.73,
+      "repeat_rate": 0.558,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m074",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 3002.45,
+      "repeat_rate": 0.563,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m074",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3117.59,
+      "repeat_rate": 0.526,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m074",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3061.23,
+      "repeat_rate": 0.527,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m074",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2925.1,
+      "repeat_rate": 0.523,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m075",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 964.58,
+      "repeat_rate": 0.15,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m075",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1156.63,
+      "repeat_rate": 0.157,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m075",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 977.91,
+      "repeat_rate": 0.132,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m075",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 999.49,
+      "repeat_rate": 0.122,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m075",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1066.65,
+      "repeat_rate": 0.144,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m075",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 948.97,
+      "repeat_rate": 0.147,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m076",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2095.08,
+      "repeat_rate": 0.345,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m076",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1922.14,
+      "repeat_rate": 0.353,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m076",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1902.7,
+      "repeat_rate": 0.371,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m076",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2021.01,
+      "repeat_rate": 0.346,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m076",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2101.19,
+      "repeat_rate": 0.354,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m076",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2001.52,
+      "repeat_rate": 0.371,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m077",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 3079.1,
+      "repeat_rate": 0.576,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m077",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 3025.31,
+      "repeat_rate": 0.542,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m077",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 3090.93,
+      "repeat_rate": 0.58,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m077",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2883.5,
+      "repeat_rate": 0.532,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m077",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3035.15,
+      "repeat_rate": 0.579,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m077",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2914.41,
+      "repeat_rate": 0.529,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m078",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1002.77,
+      "repeat_rate": 0.164,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m078",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 951.81,
+      "repeat_rate": 0.149,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m078",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 821.04,
+      "repeat_rate": 0.157,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m078",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 990.77,
+      "repeat_rate": 0.136,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m078",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 964.24,
+      "repeat_rate": 0.172,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m078",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1066.92,
+      "repeat_rate": 0.125,
+      "digital_share": null,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m079",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2001.65,
+      "repeat_rate": 0.343,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m079",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1883.66,
+      "repeat_rate": 0.372,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m079",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1921.2,
+      "repeat_rate": 0.334,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m079",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2030.05,
+      "repeat_rate": 0.374,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m079",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1923.47,
+      "repeat_rate": 0.342,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m079",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1995.88,
+      "repeat_rate": 0.359,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m080",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 3146.67,
+      "repeat_rate": 0.523,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m080",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 3042.62,
+      "repeat_rate": 0.563,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m080",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 3072.17,
+      "repeat_rate": 0.558,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m080",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3121.74,
+      "repeat_rate": 0.536,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m080",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3065.77,
+      "repeat_rate": 0.527,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m080",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 3040.47,
+      "repeat_rate": 0.53,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m081",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1058.71,
+      "repeat_rate": 0.156,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m081",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1010.44,
+      "repeat_rate": 0.156,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m081",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1029.31,
+      "repeat_rate": 0.176,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m081",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 917.1,
+      "repeat_rate": 0.161,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m081",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 870.9,
+      "repeat_rate": 0.121,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m081",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 835.26,
+      "repeat_rate": 0.167,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m082",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2047.39,
+      "repeat_rate": 0.343,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m082",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1998.71,
+      "repeat_rate": 0.353,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m082",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1964.56,
+      "repeat_rate": 0.369,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m082",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 2185.1,
+      "repeat_rate": 0.367,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m082",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1865.34,
+      "repeat_rate": 0.322,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m082",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2049.59,
+      "repeat_rate": 0.332,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m083",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2993.03,
+      "repeat_rate": 0.554,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m083",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 3032.13,
+      "repeat_rate": 0.545,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m083",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 3250.36,
+      "repeat_rate": 0.549,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m083",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3060.26,
+      "repeat_rate": 0.53,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m083",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 3037.04,
+      "repeat_rate": 0.556,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m083",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2970.75,
+      "repeat_rate": 0.576,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m084",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1022.95,
+      "repeat_rate": 0.168,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m084",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 974.5,
+      "repeat_rate": 0.124,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m084",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1092.63,
+      "repeat_rate": 0.142,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m084",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 934.17,
+      "repeat_rate": 0.15,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m084",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 837.04,
+      "repeat_rate": 0.152,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m084",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1061.86,
+      "repeat_rate": 0.163,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m085",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2039.38,
+      "repeat_rate": 0.352,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m085",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2143.19,
+      "repeat_rate": 0.329,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m085",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1969.7,
+      "repeat_rate": 0.34,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m085",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1943.3,
+      "repeat_rate": 0.364,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m085",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1825.9,
+      "repeat_rate": 0.375,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m085",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 2020.98,
+      "repeat_rate": 0.345,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m086",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2911.12,
+      "repeat_rate": 0.524,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m086",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 2955.16,
+      "repeat_rate": 0.536,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m086",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2862.16,
+      "repeat_rate": 0.572,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m086",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3049.14,
+      "repeat_rate": 0.528,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m086",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2847.67,
+      "repeat_rate": 0.578,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m086",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 3055.05,
+      "repeat_rate": 0.564,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m087",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1034.41,
+      "repeat_rate": 0.15,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m087",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1084.7,
+      "repeat_rate": 0.135,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m087",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 1100.28,
+      "repeat_rate": 0.133,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m087",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1006.62,
+      "repeat_rate": 0.171,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m087",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 1236.58,
+      "repeat_rate": 0.152,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m087",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1117.55,
+      "repeat_rate": 0.169,
+      "digital_share": 0.05,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m088",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 1932.27,
+      "repeat_rate": 0.365,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m088",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 1982.49,
+      "repeat_rate": 0.337,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m088",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2080.43,
+      "repeat_rate": 0.344,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m088",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 1945.76,
+      "repeat_rate": 0.358,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m088",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2144.25,
+      "repeat_rate": 0.378,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m088",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 1948.66,
+      "repeat_rate": 0.325,
+      "digital_share": 0.35,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m089",
+      "month": "2026-01",
+      "revision": 1,
+      "known_at": "2026-01-28",
+      "sales": 2962.32,
+      "repeat_rate": 0.555,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m089",
+      "month": "2026-02",
+      "revision": 1,
+      "known_at": "2026-02-28",
+      "sales": 3105.13,
+      "repeat_rate": 0.546,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m089",
+      "month": "2026-03",
+      "revision": 1,
+      "known_at": "2026-03-28",
+      "sales": 2979.15,
+      "repeat_rate": 0.523,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m089",
+      "month": "2026-04",
+      "revision": 1,
+      "known_at": "2026-04-28",
+      "sales": 3248.96,
+      "repeat_rate": 0.534,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m089",
+      "month": "2026-05",
+      "revision": 1,
+      "known_at": "2026-05-28",
+      "sales": 2978.99,
+      "repeat_rate": 0.575,
+      "digital_share": 0.65,
+      "open_days": 26
+    },
+    {
+      "merchant_id": "m089",
+      "month": "2026-06",
+      "revision": 1,
+      "known_at": "2026-06-28",
+      "sales": 3079.32,
+      "repeat_rate": 0.536,
+      "digital_share": 0.65,
+      "open_days": 26
+    }
+  ],
+  "new_merchants": [
+    {
+      "merchant_id": "new-1",
+      "sales": 2100,
+      "repeat_rate": 0.4,
+      "digital_share": 0.35,
+      "open_days": 25
+    },
+    {
+      "merchant_id": "new-2",
+      "sales": null,
+      "repeat_rate": null,
+      "digital_share": null,
+      "open_days": 0
+    }
+  ]
+}
